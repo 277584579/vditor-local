@@ -1,5 +1,5 @@
 <p align="center">
-此版本基于vditor3.11.2版本修改，删除了CDN功能方便内网直接部署
+此版本基于vditor3.11.2版本修改，删除了CDN功能方便内网直接部署(项目安装需要pnpm node需要20)
 <img alt="Vditor" src="https://b3log.org/images/brand/vditor-128.png" />
 
 <br>
