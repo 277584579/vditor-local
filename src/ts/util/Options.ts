@@ -179,7 +179,7 @@ export class Options {
 
         if (mergedOptions.cache.enable && !mergedOptions.cache.id) {
             throw new Error(
-                "need options.cache.id, see https://ld246.com/article/1549638745630#options",
+                "cache.id is required when cache.enable is true",
             );
         }
 
